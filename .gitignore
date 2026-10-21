@@ -1,0 +1,8 @@
+# Local exports and secrets
+*.evtx
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
+Thumbs.db
